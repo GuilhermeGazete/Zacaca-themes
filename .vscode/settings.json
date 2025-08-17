@@ -1,0 +1,143 @@
+
+{
+    "workbench.colorCustomizations": {
+        "dropdown.background": "#060110",           // Fundo do menu suspenso (dropdown)
+        "dropdown.foreground": "#00af60",           // Cor do texto do menu suspenso
+        "dropdown.listBackground": "#060110",           // Fundo da lista do menu suspenso
+        "dropdown.listBorder": "#6749ff",           // Borda da lista do menu suspenso
+        "dropdown.listForeground": "#00af60",       // Cor do texto da lista do menu suspenso
+        "dropdown.selectionBackground": "#00af60",  // Fundo do item selecionado no menu suspenso
+        "dropdown.border": "#6749ff",               // Borda do menu suspenso
+        "menu.background": "#060110",               // Fundo do menu de contexto
+        "menu.foreground": "#00af60",               // Cor do texto do menu de contexto
+        "menu.selectionBackground": "#00af60",      // Fundo do item selecionado no menu
+        "menu.selectionForeground": "#1e1e1e",      // Cor do texto do item selecionado
+        "menu.border": "#6749ff76",                    // Borda do menu de contexto
+
+        "editor.background": "#060110",           // Fundo do editor de código
+
+        "editor.foreground": "#8b8a8c",           // Cor do texto do editor
+        "editor.lineHighlightBackground": "#2a1f60", // Fundo da linha atual
+        "editor.snippetFinalTabstopHighlightBackground": "#2a1f60", // Fundo do snippet final
+        "editor.selectionBackground": "#00af60",  // Fundo da seleção de texto
+        "editor.selectionForeground": "#6747ff",  // Cor do texto selecionado no editor
+      
+        "terminal.background": "#060110",         // Fundo do terminal
+        "terminal.foreground": "#2f1b94",         // Cor do texto do terminal
+        "terminal.border": "#00af60",             // Cor da borda do terminal
+        "terminal.selectionBackground": "#00af60",// Fundo da seleção no terminal
+        "terminal.selectionForeground": "#6747ff",// Cor do texto selecionado no terminal
+        "terminal.ansiBlack": "#060110",          // Cor do preto ANSI
+        "terminal.ansiRed": "#ff5555",            // Vermelho padrão ANSI (usado para erros, avisos ou destaques em comandos)
+        "terminal.ansiGreen": "#50fa7b",          // Verde padrão ANSI (usado para saídas de sucesso, prompts, etc)
+        "terminal.ansiYellow": "#f1fa8c",         // Amarelo padrão ANSI (usado para avisos, destaques intermediários)
+        "terminal.ansiBlue": "#8be9fd",           // Azul padrão ANSI (usado para informações, diretórios, links)
+        "terminal.ansiMagenta": "#ff79c6",        // Magenta padrão ANSI (usado para destaques, comandos especiais)
+        "terminal.ansiCyan": "#8be9fd",           // Ciano padrão ANSI (usado para variáveis, caminhos, etc)
+        "terminal.ansiWhite": "#bfbfbf",          // Branco padrão ANSI (usado para texto comum, neutro)
+        "terminal.ansiBrightBlack": "#4d4d4d",    // Preto brilhante ANSI (cinza escuro, usado para detalhes ou texto menos importante)
+        "terminal.ansiBrightRed": "#d03838",      // Vermelho brilhante ANSI (vermelho mais intenso para erros críticos)
+        "terminal.ansiBrightGreen": "#00af60",    // Verde brilhante ANSI (verde mais intenso para confirmações ou destaques de sucesso)
+        "terminal.ansiBrightYellow": "#eda00f",   // Amarelo brilhante ANSI (amarelo mais intenso para avisos importantes)
+        "terminal.ansiBrightBlue": "#a4ffff",     // Azul brilhante ANSI (azul mais claro para destaques de informação)
+        "terminal.ansiBrightMagenta": "#ff92d0",  // Magenta brilhante ANSI (magenta mais claro para comandos ou destaques especiais)
+        "terminal.ansiBrightCyan": "#a4ffff",     // Ciano brilhante ANSI (ciano mais claro para variáveis ou caminhos em destaque)
+        "terminal.ansiBrightWhite": "#ffffff",    // Branco brilhante ANSI (branco puro para texto muito importante ou selecionado)
+
+        // Abas de arquivos
+        "tab.hoverForeground": "#00af60",         // Cor do texto ao passar o mouse na aba
+        "tab.activeForeground": "#00af60",        // Cor do texto da aba ativa
+        "tab.inactiveForeground": "#6749ff",      // Cor do texto da aba inativa
+        "tab.activeBorder": "#6749ff",            // Borda da aba ativa
+        "tab.inactiveBackground": "#060110",      // Fundo da aba inativa
+        "tab.activeBackground": "#000c09",        // Fundo da aba ativa
+
+        // Ícones
+        "icon.foreground": "#6749ff",             // Cor dos ícones ativos
+        "icon.inactiveForeground": "#6749ff",     // Cor dos ícones inativos
+
+        // Barra de atividades (lateral esquerda)
+        "activityBar.background": "#060110",      // Fundo da barra de atividades
+        "activityBar.border": "#00af60",          // Borda da barra de atividades
+        "activityBar.activeBorder": "#00af60",    // Borda ativa da barra de atividades
+        "activityBar.foreground": "#6749ff",      // Cor dos ícones/texto da barra de atividades
+        "activityBarBadge.background": "#00af60", // Fundo do badge (notificação) na barra de atividades
+        "activityBarBadge.foreground": "#1e1e1e", // Cor do texto do badge na barra de atividades
+
+        // Barra de status (inferior)
+        "statusBar.background": "#060110",        // Fundo da barra de status
+        "statusBar.foreground": "#6749ff",        // Cor do texto/ícones da barra de status
+
+        // Barra lateral (explorador, etc)
+        "sideBar.background": "#060110",          // Fundo da barra lateral
+        "sideBar.foreground": "#00af60",          // Cor do texto/ícones da barra lateral
+        // Barra superior de navegação (title bar)
+        "titleBar.activeBackground": "#060110",      // Fundo da barra de título (janela ativa)
+        "titleBar.inactiveBackground": "#2a1f60",   // Fundo da barra de título (janela inativa)
+        "titleBar.activeForeground": "#00af60",     // Cor do texto/ícones da barra de título ativa
+        "titleBar.inactiveForeground": "#6749ff"    // Cor do texto/ícones da barra de título inativa
+    },
+
+    "editor.fontFamily": "JetBrains Mono, monospace",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 22,
+    "editor.tabSize": 3,
+    "editor.wordWrap": "on",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "GitHub Dark Default",
+
+
+
+
+
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            // HTML
+            {
+                "scope": "entity.name.tag.html",
+                "settings": { "foreground": "#c14fe3" } // cor das tags HTML
+            },
+            {
+                "scope": "entity.other.attribute-name.id.html",
+                "settings": { "foreground": "#f1fa8c" } // cor dos ids HTML
+            },
+            {
+                "scope": "entity.other.attribute-name.class.html",
+                "settings": { "foreground": "#c14fe3" } // cor das classes HTML
+            },
+            {
+                "scope": "entity.other.attribute-name.html",
+                "settings": { "foreground": "#50fa7b" } // cor dos atributos HTML
+            },
+            // CSS
+            {
+                "scope": "entity.name.tag.css",
+                "settings": { "foreground": "#6749ff" } // cor das tags CSS
+            },
+            {
+                "scope": "entity.other.attribute-name.id.css",
+                "settings": { "foreground": "#f1fa8c" } // cor dos ids CSS
+            },
+            {
+                "scope": "entity.other.attribute-name.class.css",
+                "settings": { "foreground": "#c678dd" } // cor das classes CSS
+            },
+            {
+                "scope": "entity.other.attribute-name.css",
+                "settings": { "foreground": "#50fa7b" } // cor dos atributos CSS
+            },
+            {
+                "scope": "support.type.property-name.css",
+                "settings": { "foreground": "#856dff" } // cor das propriedades CSS
+            },
+            {
+                "scope": "support.constant.property-value.css",
+                "settings": { "foreground": "#00af60" } // cor dos valores das propriedades CSS
+            }
+        ]
+    },
+
+    
+
+
+}
