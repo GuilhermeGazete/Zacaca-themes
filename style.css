@@ -3,9 +3,14 @@
     margin: 0;
     padding: 0;
 }
+:root{
+    --icon-color:#6749ff;
+    --bg-color:#060110;
+}
 p{
     color: #00af60;
 }
+/*jfjfffffffffffffffffffff*/
 #success{
     background-color: #00af60;
 }
@@ -15,6 +20,12 @@ p{
 [class="success"]{
     background-color: #00af60;
 }
+input[type="checkbox"]{
+    align-self: start;
+}
 .class-success{
     background-color: #00af60;
+}
+::marker{
+    display: block;
 }
